@@ -19,7 +19,7 @@ export function Header() {
             <Link href="/#features">Özellikler</Link>
           </Button>
           <Button asChild className="bg-accent text-accent-foreground hover:bg-accent/90">
-            <Link href="/generate">Politika Oluştur</Link>
+            <Link href="/#features">Başla</Link>
           </Button>
         </div>
       </div>

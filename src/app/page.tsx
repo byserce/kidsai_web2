@@ -45,11 +45,11 @@ export default function Home() {
               Gizlilik Politikanızı Saniyeler İçinde Oluşturun
             </h1>
             <p className="mx-auto mt-6 max-w-[700px] text-lg text-muted-foreground md:text-xl">
-              Gizlilik Kalkanı ile web siteniz veya uygulamanız için yasalara uygun, profesyonel ve yapay zeka destekli gizlilik politikaları hazırlamak artık çok kolay.
+              Gizlilik Kalkanı ile web siteniz veya uygulamanız için yasalara uygun, profesyonel gizlilik politikaları hazırlamak artık çok kolay.
             </p>
             <div className="mt-8 flex justify-center gap-4">
               <Button asChild size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90">
-                <Link href="/generate">
+                <Link href="/#features">
                   Hemen Başla <ArrowRight className="ml-2 h-5 w-5" />
                 </Link>
               </Button>
