@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "template-selection",
+      "description": "Abstract shapes representing various document templates.",
+      "imageUrl": "https://images.unsplash.com/photo-1595411425732-e69c1abe2763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMHNoYXBlc3xlbnwwfHx8fDE3NjU0NjA5MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract shapes"
+    },
+    {
+      "id": "customization",
+      "description": "Geometric shapes being arranged, representing customization.",
+      "imageUrl": "https://images.unsplash.com/photo-1532456745301-b2c645d8b80d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhYnN0cmFjdCUyMGdlb21ldHJpY3xlbnwwfHx8fDE3NjUzOTAzODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract geometric"
+    },
+    {
+      "id": "ai-generation",
+      "description": "Glowing circuit board pattern representing artificial intelligence.",
+      "imageUrl": "https://images.unsplash.com/photo-1645422804479-22931effa105?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxnbG93aW5nJTIwY2lyY3VpdHxlbnwwfHx8fDE3NjU0NjA5MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "glowing circuit"
+    },
+    {
+      "id": "hosting",
+      "description": "Stylized cloud network representing hosting services.",
+      "imageUrl": "https://images.unsplash.com/photo-1700049093359-936d6a036b5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjbG91ZCUyMG5ldHdvcmt8ZW58MHx8fHwxNzY1NDYwOTA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cloud network"
+    }
+  ]
 }
