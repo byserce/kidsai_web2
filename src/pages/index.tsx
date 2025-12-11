@@ -3,8 +3,6 @@ import Image from 'next/image';
 import { FileText, Settings2, Sparkles, Server, ArrowRight } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Header } from '@/components/header';
-import { Footer } from '@/components/footer';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
 
 const features = [
@@ -37,8 +35,6 @@ const features = [
 export default function Home() {
   return (
     <div className="flex min-h-screen flex-col">
-      <Header />
-      <main className="flex-1">
         <section className="py-20 md:py-32">
           <div className="container text-center">
             <h1 className="font-headline text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl">
@@ -92,8 +88,6 @@ export default function Home() {
             </div>
           </div>
         </section>
-      </main>
-      <Footer />
     </div>
   );
 }
